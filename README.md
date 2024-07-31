@@ -2,10 +2,7 @@
 
 > floating autography simulation app using `next.js` + `three.js`
 
-<video width="320" height="240" controls>
-  <source src="./videoclip.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Live Show](videoclip.avif)
 
 ## Requirements
 
